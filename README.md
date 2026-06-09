@@ -1,6 +1,7 @@
 # 🚀 About Me:
 
 👩‍💻 Hi, I'm **Lorenza Rosa Pia Natale**
+
 🎓 Computer Science Student @ **Università degli Studi di Salerno**
 
 ### My interests are:

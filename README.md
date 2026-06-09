@@ -6,14 +6,17 @@
 
 ### My interests are:
 ⚡ Computer Vision & Tracking (Hand & Face Tracking)
+
 🔒 Cybersecurity & Secure Programming
+
 🎵 Music Production & Generative Art
+
 🕹️ Game Mechanics & 2D Programming
 
 ✨ *I am a determined, curious, and motivated person with a strong aptitude for creativity, committed to continuous growth by constantly learning new things.*
-🤝 *Don't be shy, if you want to collab just message me!*
 
 ---
+
 
 ## 🔗 Socials:
 
